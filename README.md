@@ -80,20 +80,6 @@ B.Tech CSE Student • MERN Stack Developer • DSA Enthusiast
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhiram9306&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiram9306&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiram9306&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
