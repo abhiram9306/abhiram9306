@@ -5,7 +5,7 @@ B.Tech CSE Student • JAVA Full Stack Developer • DSA Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=58A6FF&lines=MERN+Stack+Developer;DSA+Problem+Solver;Learning+Every+Day;Future+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=58A6FF&lines=JAVA Full +Stack+Developer;DSA+Problem+Solver;Learning+Every+Day;Future+Software+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
