@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhi Rama Reddy Chirla</h1>
 
 <h3 align="center">
-B.Tech CSE Student • MERN Stack Developer • DSA Enthusiast
+B.Tech CSE Student • JAVA Full Stack Developer • DSA Enthusiast
 </h3>
 
 <p align="center">
@@ -36,7 +36,7 @@ B.Tech CSE Student • MERN Stack Developer • DSA Enthusiast
 
 - 🎓 B.Tech Computer Science Engineering Student
 - 💻 Passionate about Full Stack Development
-- 🌱 Currently learning React.js, Node.js, Express.js & MongoDB
+- 🌱 Currently learning SpringBoot & MYSQL
 - 🧠 Solving Data Structures & Algorithms daily
 - 🏆 Active LeetCode problem solver
 - 🎯 Goal: Become a Software Engineer
@@ -61,7 +61,7 @@ B.Tech CSE Student • MERN Stack Developer • DSA Enthusiast
 ### Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### Tools & Platforms
@@ -90,7 +90,7 @@ B.Tech CSE Student • MERN Stack Developer • DSA Enthusiast
 
 ## 🎯 Current Goals
 
-- Build Production-Level MERN Projects
+- Build Production-Level Java Full Stack Projects
 - Improve Data Structures & Algorithms
 - Learn Backend Development Deeply
 - Prepare for Software Engineering Interviews
